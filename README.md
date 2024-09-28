@@ -1,4 +1,4 @@
 # websites
 Educational web sites
 
-[about me site](about-me.html)
+[about me site](about-me/home.html)
